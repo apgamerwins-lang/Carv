@@ -1,0 +1,6 @@
+{
+  "name": "Apex Automotive Studio",
+  "description": "High-end automotive modification, performance engineering, and bespoke detailing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
